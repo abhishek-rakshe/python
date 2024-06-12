@@ -1,0 +1,6 @@
+NUM1= int(input("Enter First Number:- "))
+NUM2= int(input("Enter Second Number:- "))
+print("ADDITION OF ABOVE 2 NUMBERS IS- ",NUM1 + NUM2)
+print("SUBTRACTION OF ABOVE 2 NUMBERS IS- ",NUM1 - NUM2)
+print("MULTIPLICATION OF ABOVE 2 NUMBERS IS- ",NUM1 * NUM2)
+print("DIVISION OF ABOVE 2 NUMBERS IS- ",NUM1 / NUM2)
